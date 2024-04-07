@@ -29,4 +29,4 @@ nav {
 import { useAuth } from '../compasables/useAuth'
 const { isAuthenticated, logout, user} = useAuth()
 
-</script>
+</script>../composables/useAuth
